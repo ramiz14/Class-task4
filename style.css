@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none   ;
+}
+.all{
+    background-color: aquamarine;
+    text-align: center;
+    height: 30rem;
+    width: 25%;
+    margin: 10rem auto;
+    padding-top: 2px;
+    
+}
+.bdy{
+    width: 90%;
+    margin: 20px auto;
+    border-radius: 20px;
+    background-color: white;
+    height: 90%;
+}
+img{
+    margin-top: 20px;
+    height: 33%;
+    width: 42%;
+    border-radius: 1000px;
+    border: 1px solid black;
+}
+h1{
+    margin-bottom: 10px;
+}
+h4{
+    font-weight: 100;
+    margin-bottom: 15px;
+    color: grey;
+}
+p{
+    margin-bottom: 60px;
+}
+a{
+    background-color: black;
+    color: white;
+    padding: 10px 70px;
+    border-radius: 20px;
+}
+
